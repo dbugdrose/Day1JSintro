@@ -40,3 +40,5 @@ console.log(myArray);
 let myElement = document.getElementById("myElement");
 console.log(myElement)
 myElement.textContent = "This text was changed by JS"
+
+//this is a comment in my app.js on Ken's branch
