@@ -41,4 +41,4 @@ let myElement = document.getElementById("myElement");
 console.log(myElement)
 myElement.textContent = "This text was changed by JS"
 
-//ken's dupe branch
+//ken's dupe
